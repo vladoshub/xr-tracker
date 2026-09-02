@@ -1,5 +1,7 @@
 # XR Tracker
 
+![Leap Motion UVC + nRF54L15 tracker](images/general.png)
+
 A DIY 6DoF tracking modules for [XR Gate](https://github.com/vladoshub/xr-gate)
 
 The tracker is intended primarily for use with [XR Gate](https://github.com/vladoshub/xr-gate) and works only on Linux

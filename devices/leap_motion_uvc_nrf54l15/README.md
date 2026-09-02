@@ -1,5 +1,7 @@
 ## Overview
 
+![Leap Motion UVC + nRF54L15 tracker](../../images/leap_motion_uvc_nrf54l15.png)
+
 The tracker uses a **Leap Motion Controller v1** as the optical tracking camera.
 
 The Leap Motion must be flashed into **UVC mode** using:
@@ -162,7 +164,7 @@ If using IMU-assisted tracking, install the **XIAO nRF54L15 Sense** in its desig
 
 The board should also be mounted rigidly.
 
-Avoid soft adhesive or mounting methods that allow the IMU PCB to move independently from the Leap Motion camera.
+You can put a piece of double-sided tape to fix the board
 
 ### 4. Connect the hardware
 
@@ -172,6 +174,11 @@ Connect:
 - XIAO nRF54L15 Sense to the host as required by the XR Controller firmware.
 
 Verify that both devices are detected before proceeding with tracker configuration.
+
+
+### 5. Mounting the tracker to the head (Optional)
+
+You can try to attach the tracker to your head using the straps (20mm) and use it, for example, as the main tracking sensor together with any AR glasses or displays
 
 ## Tracking Modes
 
