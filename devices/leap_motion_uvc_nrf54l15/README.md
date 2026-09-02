@@ -40,7 +40,7 @@ Use:
 
 Follow the instructions in that repository to flash and verify the controller (You will need Windows once to set it up.).
 
-After conversion, the Leap Motion should be exposed to the operating system as a standard UVC camera.
+After conversion, the Leap Motion should be exposed to the operating system as a standard UVC camera and the Ultraleap software will no longer be required.
 
 > **Important:** flashing firmware always carries some risk. Make sure you are using a supported Leap Motion Controller v1 and carefully follow the `leapuvc` instructions.
 
