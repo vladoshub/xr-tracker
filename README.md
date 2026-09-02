@@ -2,7 +2,7 @@
 
 A DIY 6DoF tracking modules for [XR Gate](https://github.com/vladoshub/xr-gate)
 
-The tracker is intended primarily for use with [XR Gate](https://github.com/vladoshub/xr-gate). and works only on Linux
+The tracker is intended primarily for use with [XR Gate](https://github.com/vladoshub/xr-gate) and works only on Linux
 
 This repository contains:
 
