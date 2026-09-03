@@ -18,11 +18,11 @@ Without the IMU, the tracker can operate in **visual-odometry-only (VO) mode**, 
 
 - **Leap Motion Controller v1**
 - USB connection for the Leap Motion
-- 3D-printed tracker enclosure / mount from this repository
 
 ### Strongly recommended
 
 - **Seeed Studio XIAO nRF54L15 Sense**
+- **3D-printed tracker enclosure / mount from this repository (if you want to use it with an IMU and/or for head mounting)**
 - USB cable for flashing/configuring the XIAO
 - Appropriate wiring/mounting hardware
 
