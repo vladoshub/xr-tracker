@@ -143,6 +143,8 @@ Exact orientation and support requirements may differ between parts.
 
 Print the required STL files from the `models/stl` directory.
 
+**If you want to use the tracker with straps, I recommend printing leap-v2.stl instead of leap.stl, as the leap.stl version is short, which in turn can put pressure on the USB ports through the inserted cable.**
+
 If modifications are required for your headset or mounting system, use the FreeCAD sources from `models/freecad`.
 
 ### 2. Install the Leap Motion Controller
